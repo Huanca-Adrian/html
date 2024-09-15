@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bolivia en lucha por su clasificacion</title>
+</head>
+
+<body>
+    <h1 align="center">BOLIVIA EN LUCHA POR SU CLASIFICACION</h1>
+    <ul>
+        <li>
+            <a href="https://www.conmebol.com/noticias/bolivia-golea-a-venezuela-en-el-alto/" target="_blank"
+            >CONMEBOL OFICIAL</a>
+        </li>
+        <li>
+            <a href="https://www.bolivia.com/futbol/la-seleccion/en-cuantos-mundiales-ha-participado-la-seleccion-bolivia-210214#:~:text=La%20selecc
+                    i%C3%B3n%20boliviana%20ha%20participado%20en%20tres%20oportunidades,de%201994%20se%20clasific%C3%B3%20jugando%20las%20eliminatorias%20correspondientes."
+                target="_blank"
+                >PARTICIPACION DE BOLIVIA EN LOS MUNDIALES</a>
+        </li>
+        <li><a href="#vat">BOLIVIA EN LAS ELIMINATORIAS SUDAMERICANAS PARA LA COPA MUNDIAL</a></li>
+        <li><a href="#emer">CRITICAN A BOLIVIA POR JUGAR LAS ELIMINATORIAS EN EL ESTADIO MAS ALTO</a></li>
+    </ul>
+    <a name="vat"></a>
+    <h2>BOLIVIA EN LAS ELIMINATORIAS SUDAMERICANAS PARA LA COPA MUNDIAL</h2>
+    <p>
+        Luego de golear a Venezuela por 4-0 en El Alto y vencer a Chile 2-1 en Santiago, la selección boliviana ha reavivado su ilusión de 
+        clasificar a la próxima Copa del Mundo, que se celebrará en 2026 en Estados Unidos, México y Canadá. Este renovado optimismo se debe, 
+        en parte, a que la FIFA ha incrementado el número de equipos participantes de 32 a 48, lo que ofrece más oportunidades a las selecciones 
+        sudamericanas.
+        En las Eliminatorias Sudamericanas de la Conmebol, Bolivia compite contra otras nueve selecciones. Hasta ahora, se han disputado ocho 
+        fechas, en las que la Verde ha conseguido tres victorias: una frente a Perú por 2-0 en noviembre del año pasado y las recientes victorias
+        contra Venezuela y Chile. Sin embargo, también ha sufrido cinco derrotas, lo que ha complicado su camino hacia la clasificación.
+        El triunfo en Santiago fue histórico, ya que cortó una racha negativa de 31 años sin conocer victorias como visitante en Eliminatorias. 
+        El equipo dirigido por Óscar Villegas demostró su renovada fortaleza, logrando un resultado que le permite sumar 9 puntos y situarse a solo
+        una unidad de la zona de clasificación directa para
+    </p>
+    <p>
+        Según el nuevo formato de clasificación, los seis primeros equipos avanzarán directamente al Mundial 2026, mientras que el séptimo lugar 
+        disputará un repechaje. En total, se jugarán 18 partidos en las Eliminatorias, con Bolivia enfrentando nueve encuentros de local y nueve de
+        visitante.
+        Analizando las clasificaciones de Copas del Mundo anteriores, se estima que con 27 puntos sería suficiente para asegurar un lugar en la 
+        próxima cita mundialista. Sin embargo, la Verde ha dejado escapar puntos en casa, lo que la obliga a rescatar al menos un par de empates 
+        como visitante para mantener vivas sus esperanzas.
+    </p>
+    <a name="emer"></a>
+    <h2>CRITICAN A BOLIVIA POR JUGAR LAS ELIMINATORIAS EN EL ESTADIO MAS ALTO</h2>
+
+    <p>
+        El entrenador de Venezuela Fernando Batista manifestó que es muy complicado jugar en el estadio El Alto las eliminatorias.
+        La semana pasada Venezuela fue a jugar eliminatorias contra Bolivia en El Alto, ciudad ubicada a 4.100 metros de altura. Un asunto al que 
+        el DT de la Vinotinto Fernando Batista, no quiso darle bola en la previa. “No vamos a poner excusas”, señaló.
+        Sin embargo con el pasar de los días cambió su discurso. Y en la previa del partido ante Uruguay, que los venezolanos jugarán como local en 
+        Maturín, manifestó que es imposible para los visitantes jugar en esa ciudad.
+    </p>
+    <p>
+        “Fue un golpe duro porque queríamos sacar un mejor resultado. Sí les puedo decir, después de unos días, que la verdad es inhumano jugar 
+        allí. Es inhumano, aunque yo dije que no hay que poner excusas”, manifestó Batista.
+        Lo graficó en una situación personal, por el ahogo que sentía. “Esta persona que está hablando dos veces tuvo que ir al vestuario a inhalar 
+        oxígeno porque se estaba ahogando. Hubo jugadores que salieron con mareos”, manifestó el DT de Venezuela.
+    </p>
+</body>
+
+</html>
